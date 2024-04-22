@@ -1,0 +1,31 @@
+{
+  "name": "eggshell",
+  "version": "0.1.22",
+  "description": "Bourbon scaffolding",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "node-bourbon": "^1.2.3"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wiredcraft/eggshell.git"
+  },
+  "keywords": [
+    "eggshell",
+    "sass",
+    "bourbon"
+  ],
+  "author": "Wiredcraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wiredcraft/eggshell/issues"
+  },
+  "homepage": "https://github.com/Wiredcraft/eggshell"
+}
